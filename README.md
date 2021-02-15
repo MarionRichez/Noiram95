@@ -18,16 +18,14 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Web Developement.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | C++ |
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | Node.js
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git | Markdown
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
 <br/>
 
