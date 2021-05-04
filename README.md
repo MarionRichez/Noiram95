@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📱 &nbsp; Java | C# | .NET | Xamarin | Ionic | ReactJS
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | NodeJS | PHP | Symfony | Angular
-- 🛢 &nbsp; MySQL
+- 🛢 &nbsp; MySQL | SQLServer
 - 🔧 &nbsp; Git | Markdown
 
 <br/>
