@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![Noiram95's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noiram95&show_icons=true)](https://github.com/AVS1508)
+[![MarionRichez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarionRichez&show_icons=true)](https://github.com/AVS1508)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
