@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C++ |
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | Node.js
+- 📱 &nbsp; Java | C# | .NET | Xamarin | Ionic | ReactJS
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | NodeJS | PHP | Symfony | Angular
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git | Markdown
 
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://marion-richez.be/"><img alt="Website" src="https://img.shields.io/badge/Website-www.marion--richez.be-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/marion-richez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marion%20Richez-blue?style=flat-square&logo=linkedin"></a>
-<!-- <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a> -->
 <a href="mailto:richez.m@marion-richez.be"><img alt="Email" src="https://img.shields.io/badge/Email-richez.m@marion--richez.be-blue?style=flat-square&logo=gmail"></a>
 </p>
 
