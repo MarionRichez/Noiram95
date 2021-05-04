@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-Developer (Web | Mobile) looking for new opportunities. Passionate about creating websites and mobile applications, eager for new innovations.
-"The people who are crazy enough to think they can change the world are the ones who do"
+<p>Developer (Web | Mobile) looking for new opportunities. Passionate about creating websites and mobile applications, eager for new innovations.</p>
+
+<p>"The people who are crazy enough to think they can change the world are the ones who do"</p>
 
 <h3>🛠 Tech Stack</h3>
 
